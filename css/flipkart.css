@@ -1,0 +1,201 @@
+* {
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: 30px;
+    margin-left: 150px;
+}
+
+.navbar-nav {
+    margin-right: 100px;
+    font-weight: normal
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+    margin-right: 10px;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.link {
+    color: black;
+    font-size: medium;
+    font-weight: normal;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.sec2 {
+    background-color: lightgray;
+}
+
+.sec2 .nav-link {
+    color: black;
+}
+
+.col-xl-2 {
+    background-color: white;
+}
+
+.input-group {
+    margin-left: 0px;
+    width: 500px;
+}
+
+.col-md-2 {
+    background-color: white;
+}
+
+.col-md-10 {
+    background-color: white;
+}
+
+#card1 {
+    padding: 20px;
+}
+
+.card-body {
+    text-align: left;
+    margin: auto;
+}
+
+.p10 {
+    font-size: small;
+    color: gray;
+}
+
+.sec2 .nav-link {
+    font-size: small;
+    color: gray;
+    font-weight: normal;
+}
+
+.navbar-nav {
+    padding: 0%;
+}
+
+.sec2 .nav-link:hover {
+    color: blue;
+}
+
+.sec2 .dropdown .dropdown-toggle {
+    text-decoration: none;
+    color: black;
+}
+
+.lastsec p {
+    font-size: small;
+    font-weight: lighter;
+    color: white;
+}
+
+.lastsec a {
+    color: white;
+    text-decoration: none;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.lastsec a:hover {
+    text-decoration: underline;
+}
+
+.lastsec {
+    background-color: #172337;
+    ;
+}
+
+#fp a {
+    margin-right: 50px;
+}
+
+#fp img {
+    margin-left: 35px;
+}
+
+hr {
+    border-color: lightgray;
+}
+
+.img {
+    padding-top: 10px;
+    max-width: 260px;
+    height: 260px;
+    margin: auto;
+}
+
+/* .img:hover{
+    width: 300px;
+    height: 300px;
+} */
+.b1 {
+    height: 25px;
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+/* .b1:visited{
+    color: rgb(55, 13, 224);
+} */
+.b1:hover {
+    height: 30px;
+    width: 100px;
+
+}
+
+.amount {
+    font-weight: bold;
+}
+
+.title1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: medium;
+    color: rgb(133, 129, 129);
+}
+
+.imgcard {
+    margin-left: 10px;
+}
+
+.description {
+    margin-bottom: 0px;
+}
+
+.price {
+    margin-left: 4px;
+}
+
+.grid {
+
+    /* border: 1px grey solid; */
+    box-shadow: 2px 2px 5px rgb(200, 190, 190);
+    margin-bottom: 10px;
+}
+
+#badge {
+
+    margin-left: 1px;
+    font-size: small;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+
+.placeorder {
+    background-color: rgb(255, 112, 24);
+    color: white;
+}
+
+.col2 {
+    border-right: 2px lightgray solid;
+}
